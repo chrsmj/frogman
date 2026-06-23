@@ -1,0 +1,38 @@
+msgid "enable voicemail on [ext]"
+msgstr ""
+
+msgid ""
+"Frogman: ensured all API tokens are stored hashed (GHSA-9xf5-9ghq-p6cw)."
+msgstr ""
+
+msgid "Frogman: token hash migration failed  "
+msgstr ""
+
+#, php-format
+msgid ""
+"Frogman: redacted sensitive values from %d historical audit log entries "
+"(GHSA-3p65-2prr-cfvf)."
+msgstr ""
+
+msgid "Frogman: audit log redaction migration failed  "
+msgstr ""
+
+msgid ""
+"Frogman: ensured oc_audit_log has chat_input + interpreted_as columns "
+"(v1.6.7)."
+msgstr ""
+
+msgid "Frogman: chat_input migration failed  "
+msgstr ""
+
+msgid "Frogman: ensured oc_downloads table exists (v2.7.0)."
+msgstr ""
+
+msgid "Frogman: oc_downloads migration failed: "
+msgstr ""
+
+msgid "Frogman: ensured oc_api_tokens has last_used_at column."
+msgstr ""
+
+msgid "Frogman: last_used_at migration failed  "
+msgstr ""
