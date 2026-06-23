@@ -35,7 +35,7 @@
 				<div class="oc-guide-group">
 					<button class="oc-quick-btn oc-write-btn" data-paste="create extension <ext> for <name>">create extension [ext] for [name]</button>
 					<button class="oc-quick-btn oc-write-btn" data-paste="forward <ext> to <number>">forward [ext] to [number]</button>
-					<button class="oc-quick-btn oc-write-btn" data-paste="enable voicemail on <ext>">enable voicemail on [ext]</button>
+					<button class="oc-quick-btn oc-write-btn" data-paste="enable voicemail on <ext>"><?php echo _("enable voicemail on [ext]"); ?></button>
 					<button class="oc-quick-btn oc-write-btn" data-paste="block <number>">block [number]</button>
 					<button class="oc-quick-btn oc-write-btn" data-paste="add inbound route <DID> to <dest>">add inbound route [DID] to [dest]</button>
 					<button class="oc-quick-btn oc-write-btn" data-paste="call <ext> to <number>">call [ext] to [number]</button>
