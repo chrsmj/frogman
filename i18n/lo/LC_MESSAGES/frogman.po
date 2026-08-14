@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-03 23:11+0000\n"
+"PO-Revision-Date: 2026-08-14 21:57+0000\n"
+"Last-Translator: BoneNI <bounkirdni@gmail.com>\n"
+"Language-Team: Lao <https://weblate.freepbx.org/projects/frogman/frogman-"
+"fork-chrsmj/lo/>\n"
+"Language: lo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.15.2\n"
+
+msgid "forward [ext] to [number]"
+msgstr "ໂອນ [ext] ໄປຫາ [number]"
+
+msgid "enable voicemail on [ext]"
+msgstr "ເປີດໃຊ້ງານກ່ອງຂໍ້ຄວາມສຽງໃນ [ext]"
+
+msgid ""
+"Frogman: ensured all API tokens are stored hashed (GHSA-9xf5-9ghq-p6cw)."
+msgstr ""
+"Frogman: ຮັບປະກັນວ່າທຸກ API token ຖືກຈັດເກັບແບບແຮຊ (GHSA-9xf5-9ghq-p6cw)."
+
+msgid "Frogman: token hash migration failed  "
+msgstr "Frogman: ການຍ້າຍຂໍ້ມູນ token hash ລົ້ມເຫຼວ  "
+
+#, php-format
+msgid ""
+"Frogman: redacted sensitive values from %d historical audit log entries "
+"(GHSA-3p65-2prr-cfvf)."
+msgstr ""
+"Frogman: ປິດບັງຂໍ້ມູນທີ່ລະອຽດອ່ອນຈາກ %d ລາຍການບັນທຶກການກວດສອບຍ້ອນຫຼັງ (GHSA-3p65-2prr-"
+"cfvf)."
+
+msgid "Frogman: audit log redaction migration failed  "
+msgstr "Frogman: ການຍ້າຍຂໍ້ມູນການປິດບັງບັນທຶກການກວດສອບລົ້ມເຫຼວ  "
+
+msgid ""
+"Frogman: ensured oc_audit_log has chat_input + interpreted_as columns "
+"(v1.6.7)."
+msgstr ""
+"Frogman: ຮັບປະກັນວ່າ oc_audit_log ມີຖັນ chat_input + interpreted_as (v1.6.7)."
+
+msgid "Frogman: chat_input migration failed  "
+msgstr "Frogman: ການຍ້າຍຂໍ້ມູນ chat_input ລົ້ມເຫຼວ  "
+
+msgid "Frogman: ensured oc_downloads table exists (v2.7.0)."
+msgstr "Frogman: ຮັບປະກັນວ່າຕາຕະລາງ oc_downloads ມີຢູ່ແລ້ວ (v2.7.0)."
+
+msgid "Frogman: oc_downloads migration failed: "
+msgstr "Frogman: ການຍ້າຍຂໍ້ມູນ oc_downloads ລົ້ມເຫຼວ: "
+
+msgid "Frogman: ensured oc_api_tokens has last_used_at column."
+msgstr "Frogman: ຮັບປະກັນວ່າ oc_api_tokens ມີຖັນ last_used_at."
+
+msgid "Frogman: last_used_at migration failed  "
+msgstr "Frogman: ການຍ້າຍຂໍ້ມູນ last_used_at ລົ້ມເຫຼວ  "

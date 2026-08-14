@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-23 17:04+0000\n"
+"PO-Revision-Date: 2026-06-23 17:20+0000\n"
+"Last-Translator: \"C. Maj\" <52975048+chrsmj@users.noreply.github.com>\n"
+"Language-Team: Spanish (American) <https://weblate.freepbx.org/projects/"
+"frogman/frogman-fork-chrsmj/es_US/>\n"
+"Language: es_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.2\n"
+
+msgid "forward [ext] to [number]"
+msgstr "adelante [ext] a [numero]"
+
+msgid "enable voicemail on [ext]"
+msgstr ""
+
+msgid ""
+"Frogman: ensured all API tokens are stored hashed (GHSA-9xf5-9ghq-p6cw)."
+msgstr ""
+
+msgid "Frogman: token hash migration failed  "
+msgstr ""
+
+#, php-format
+msgid ""
+"Frogman: redacted sensitive values from %d historical audit log entries "
+"(GHSA-3p65-2prr-cfvf)."
+msgstr ""
+
+msgid "Frogman: audit log redaction migration failed  "
+msgstr ""
+
+msgid ""
+"Frogman: ensured oc_audit_log has chat_input + interpreted_as columns "
+"(v1.6.7)."
+msgstr ""
+
+msgid "Frogman: chat_input migration failed  "
+msgstr ""
+
+msgid "Frogman: ensured oc_downloads table exists (v2.7.0)."
+msgstr ""
+
+msgid "Frogman: oc_downloads migration failed: "
+msgstr ""
+
+msgid "Frogman: ensured oc_api_tokens has last_used_at column."
+msgstr ""
+
+msgid "Frogman: last_used_at migration failed  "
+msgstr ""
